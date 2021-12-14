@@ -1,0 +1,6 @@
+Router outlet --> routing
+
+redux actions  fazer pedidos tudo que seja pedidos 
+      selector buscar os dados 
+      reducers todos os campos vao ser atribuidos aos pedidose ganham valores
+      
