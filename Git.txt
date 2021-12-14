@@ -1,0 +1,37 @@
+Depende. às vezes, se precisar de enviar algum fix urgente crio uma branch e faço commits nela para depois fazer um merge request para master e alguem aceitar.
+
+Mas geralmente, quando estou a trabalhar numa feature, numa branch minha, faço commits no final do dia.
+
+às vezes até faço um commit chamado WIP com tudo o que fiz, desorganizado, só para nao correr o risco de perder. Depois no dia seguinte faço unstage desse commit e trabalho por cima, para depois enviar os commits um a um
+
+existem várias formas. nao ha regras escritas em pedra
+
+mas...
+
+melhor do que estar a dizer, porque isto pode (e deve) ser muito confuso ao inicio
+
+nada melhor do que ires treinando comandos Git num branch teu
+
+nao tenhas medo de partir nada nesse branch  
+
+faz o que quiseres porque depois esse branch pode ser apagado
+
+Vou-te dar uns link que pessoalmente me ajudaram
+
+Git Tutorials and Training | Atlassian Git Tutorial
+Learn the basics of Git through this comprehensive Git training. Branching, pull requests, merging and more are covered in the Atlassian Git tutorial.
+Atlassian
+
+E mesmo na documentacao oficial do git
+
+Git - Reference
+git-scm.com
+
+mas para mim essa da Atlassian é muito bom
+
+
+git clone -- copiar do Sv para o pc
+git status -- ver as ultimas coisas alteradas
+git add -- add files localmente
+git commit -- commit -m (mensagem)
+git push -- para enviar as alteraçoes para o Sv
